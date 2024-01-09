@@ -10,7 +10,6 @@ header {
 .head_1 {
     color: #FFF;
     text-align: center;
-
     padding-top: 177px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 32px;
@@ -87,4 +86,12 @@ header {
     font-weight: 400;
     line-height: 30px;
     padding-left: 126px;
+}
+.h3_title{
+    color: #FFF;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+font-weight: 700;
+padding-left: 158px;
+text-transform: uppercase;
 }
